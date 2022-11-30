@@ -11,7 +11,7 @@ import { IoIosPin, IoIosMail } from "react-icons/io";
 
 const Footer = () => {
   return (
-    <div>
+    <div className="mt-5">
       <div className="flex flex-col ps-3 md:ps-0 md:px-0 md:flex-row justify-around">
         <div className="py-2.5">
           <h3 className="text-blue-500">Prophecy Generator</h3>

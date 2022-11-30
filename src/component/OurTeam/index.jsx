@@ -1,5 +1,5 @@
 import React from "react";
-import Gbenga from "../../assets/gbenga.png";
+import Gbenga from "../../assets/IMG_20211221_171900.jpg";
 
 export const OurTeam = () => {
 	return (
@@ -12,7 +12,7 @@ export const OurTeam = () => {
 						style={{ width: "180px", height: "180px" }}>
 						<img src={Gbenga} style={{ width: "100%" }} alt='' />
 					</div>
-					<div className='font-bold mb-2'>Akinnukawe Gbenga</div>
+					<div className='font-bold mb-2 text-[#174ac0] '>Ajibade Ajibola</div>
 					<div className='font-semibold'>FRONTEND DEVELOPER</div>
 				</div>
 
@@ -22,7 +22,7 @@ export const OurTeam = () => {
 						style={{ width: "180px", height: "180px" }}>
 						<img src={Gbenga} style={{ width: "100%" }} alt='' />
 					</div>
-					<div className='font-bold mb-2'>Akinnukawe Gbenga</div>
+					<div className='font-bold mb-2 text-[#174ac0] '>Ajibade Ajibola</div>
 					<div className='font-semibold'>FRONTEND DEVELOPER</div>
 				</div>
 
@@ -32,7 +32,7 @@ export const OurTeam = () => {
 						style={{ width: "180px", height: "180px" }}>
 						<img src={Gbenga} style={{ width: "100%" }} alt='' />
 					</div>
-					<div className='font-bold mb-2'>Akinnukawe Gbenga</div>
+					<div className='font-bold mb-2 text-[#174ac0] '>Ajibade Ajibola</div>
 					<div className='font-semibold'>FRONTEND DEVELOPER</div>
 				</div>
 			</section>
